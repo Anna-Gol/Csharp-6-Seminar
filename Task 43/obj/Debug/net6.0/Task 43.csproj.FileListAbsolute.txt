@@ -1,0 +1,15 @@
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.csproj.AssemblyReference.cache
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.AssemblyInfoInputs.cache
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.AssemblyInfo.cs
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.csproj.CoreCompileInputs.cache
+/Users/annagolikova/С# Семинар 6 дз/Task 43/bin/Debug/net6.0/Task 43
+/Users/annagolikova/С# Семинар 6 дз/Task 43/bin/Debug/net6.0/Task 43.deps.json
+/Users/annagolikova/С# Семинар 6 дз/Task 43/bin/Debug/net6.0/Task 43.runtimeconfig.json
+/Users/annagolikova/С# Семинар 6 дз/Task 43/bin/Debug/net6.0/Task 43.dll
+/Users/annagolikova/С# Семинар 6 дз/Task 43/bin/Debug/net6.0/Task 43.pdb
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.dll
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/refint/Task 43.dll
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.pdb
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/Task 43.genruntimeconfig.cache
+/Users/annagolikova/С# Семинар 6 дз/Task 43/obj/Debug/net6.0/ref/Task 43.dll
