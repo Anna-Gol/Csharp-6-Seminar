@@ -4,9 +4,10 @@
 // 1, -7, 567, 89, 223-> 3
 
 
+string Numb()
 
 {
-    Console.Write("Введите числа (через пробел): ");
+    Console.WriteLine("Введите числа (через пробел): ");
     int[] arr = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
     int count = 0;
  
@@ -17,7 +18,10 @@
             count++;
         }
     }
-    
-    Console.WriteLine($"Количество чисел больше 0: {count}");
+
+    string output = $"Количество чисел больше 0: {count}";
+
+    return output;
 }
 
+Console.WriteLine(Numb());
